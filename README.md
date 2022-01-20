@@ -1,4 +1,4 @@
-# flutter_hello_world
+# Flutter bad jokes app
 
 A new Flutter project.
 
